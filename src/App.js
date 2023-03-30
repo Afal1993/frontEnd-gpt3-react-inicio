@@ -15,7 +15,7 @@ const App = () => {
             <WhatGPT3 />
             <Features />
             <Possibility />
-            <Cta />
+            <Cta /> {/* Cta significa "click to action" */}
             <Blog />
             <Footer />
         </div>
